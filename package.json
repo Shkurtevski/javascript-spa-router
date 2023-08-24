@@ -1,6 +1,6 @@
 {
   "name": "@neshki/javascript-spa-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Effortlessly manage client-side routing in your JavaScript SPA with our intuitive and lightweight npm package. Enable smooth navigation and URL handling for a seamless user experience. Simplify development today!",
   "main": "index.js",
   "scripts": {
