@@ -1,0 +1,29 @@
+{
+  "name": "@neshki/javascript-spa-router",
+  "version": "1.0.0",
+  "description": "Effortlessly manage client-side routing in your JavaScript SPA with our intuitive and lightweight npm package. Enable smooth navigation and URL handling for a seamless user experience. Simplify development today!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shkurtevski/javascript-spa-router-npm-package.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Router",
+    "Js",
+    "Router"
+  ],
+  "author": "Nenad Shkurtevski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shkurtevski/javascript-spa-router-npm-package/issues"
+  },
+  "homepage": "https://github.com/Shkurtevski/javascript-spa-router-npm-package#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
