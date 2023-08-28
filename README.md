@@ -1,6 +1,4 @@
-﻿# javascript-spa-router
-
-## JavaScript SPA Router
+﻿# JAVASCRIPT SPA ROUTER
 
 The JavaScript SPA Router is a lightweight and flexible router designed for single-page applications (SPAs). It empowers developers to create dynamic and engaging user experiences by enabling seamless navigation between different views or pages within a web application. This router leverages JavaScript, Express.js for serving static files, and offers an intuitive API for defining routes and managing navigation.
 
